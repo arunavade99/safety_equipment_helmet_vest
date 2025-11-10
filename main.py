@@ -6,7 +6,7 @@ import numpy
 import math
 ultralytics.checks()
 # model = YOLO('yolov8n.pt')
-model = YOLO('best.pt')
+model = YOLO('best38.pt')
 
 # cap = cv2.VideoCapture(0)
 cap = cv2.VideoCapture('816.mp4')

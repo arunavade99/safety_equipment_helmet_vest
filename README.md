@@ -44,3 +44,6 @@ Contact
 Output
 - The script will save or display detection results depending on how `main.py` is implemented.
 
+Example output:
+<img width="787" height="687" alt="image" src="https://github.com/user-attachments/assets/f363b8b0-3114-4619-9a37-16baaea1efc9" />
+
